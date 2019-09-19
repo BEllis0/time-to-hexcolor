@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "NodeJS Twitter Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BEllis0/twitter_bot.git"
+  },
+  "author": "Brandon Ellis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BEllis0/twitter_bot/issues"
+  },
+  "homepage": "https://github.com/BEllis0/twitter_bot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
